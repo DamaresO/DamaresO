@@ -1,0 +1,2 @@
+# Este arquivo lista as dependências do projeto.
+# Por enquanto, não há dependências externas.
